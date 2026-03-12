@@ -54,8 +54,8 @@ grpc-api-versioning
 │   └── main.go
 │
 └── client
-├── client_v1.go
-└── client_v2.go
+    ├── client_v1.go
+    └── client_v2.go
 
 
 ---
